@@ -1,4 +1,4 @@
-country_id,CountryName,CountryCode,ContinentCode,CenterLongitude,CenterLatitude,area (sqkm),population,airports,GDP_growthrate_(%),inflation_rate_(%),unemployment_rate_(%),Popn_below_poverty_line_(%),median_age
+country_id,CountryName,CountryCode,ContinentCode,CenterLongitude,CenterLatitude,areaSqkm,population,airports,GDPgrowthRate,inflationRate,unemploymentRate,PopnBelowPoverty,medianAge
 1,Afghanistan,AF,AS,65.0,33.0,652230,38346720,46,2.70,5.00,23.90,54.50,19.50
 2,Akrotiri,AK,123,18195,1,0.00,0.00,0.00,0.00,0.00
 3,Albania,AL,EU,20.0,41.0,28748,3095344,3,2.24,1.40,5.83,14.30,34.30
